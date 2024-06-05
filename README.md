@@ -16,7 +16,7 @@
 
 ### Подготовка данных
 
-* Ссылка на данные [https:](https://docs.google.com/spreadsheets/d/152JyksagijqyscnrFDc6Ez2VjT5MKNXpDOyc4PRlauw/edit#gid=208646510)
+* Ссылка на данные: [https://docs.google.com/spreadsheets/d/152JyksagijqyscnrFDc6Ez2VjT5MKNXpDOyc4PRlauw/edit#gid=208646510]
 * Выделите в Маркетинговых данных признак марки и модели автомобиля
 * Загрузите данные по курсам валют на дату с сайта ЦБ РФ
 * Объедините все 4 получившиеся таблицы
